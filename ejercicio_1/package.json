@@ -1,0 +1,23 @@
+{
+  "name": "tareas-openbootcamp",
+  "version": "1.0.0",
+  "description": "Repo para subir las tareas del Open Bootcamp de JS",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santivanezz/tareas-OpenBootcamp.git"
+  },
+  "keywords": [
+    "tareas"
+  ],
+  "author": "SergioSantivanez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santivanezz/tareas-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/santivanezz/tareas-OpenBootcamp#readme"
+}
